@@ -7,7 +7,7 @@
 
 ---
 
-### 💬 About Me
+## 💬 About Me
 - ✍ Full Stack Developer
 - ☁ Cloud Enthusiast
 - ⚽ Football Lover
@@ -15,25 +15,25 @@
 
 ---
 
-### 🔍 Ask Me About:
+## 🔍 Ask Me About:
 - Backend Development (Node.js)  
 - Frontend Development (React.js)  
 - Docker & Cloud Architecture  
 - Design Patterns  
 - Football (Anytime!)
 
-### Current Projects:
+## 💻 Current Projects:
 - [Project Management App](https://github.com/pollabd/project-management-app.git) *(WIP)*
 - [Event Management System](https://github.com/pollabd/event-management-system.git) 
 - [Ecom Admin](https://github.com/pollabd/ecom-admin.git) 
 
-### Currently Learning:
+## 📚 Currently Learning:
 - Jenkins  
 - PostgreSQL
 
 ---
 
-### 🎮 Hobbies
+## 🎮 Hobbies
 - Solving problems on **Codeforces** & **LeetCode**
 - Watching **anime** & **TV shows**
 - Playing **video games**
