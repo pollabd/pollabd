@@ -8,29 +8,28 @@
 ---
 
 ### 💬 About Me
-- ✍ Backend & Frontend Developer
+- ✍ Full Stack Developer
 - ☁ Cloud Enthusiast
 - ⚽ Football Lover
 - Always curious and ready to learn!
 
 ---
 
-### 🔍 What I Do
-- **Ask Me About:**  
-  ✨ Backend Development (Node.js)  
-  ✨ Frontend Development (React.js)  
-  ✨ Docker & Cloud Architecture  
-  ✨ Design Patterns  
-  ✨ Football (Anytime!)
+### 🔍 Ask Me About:
+✨ Backend Development (Node.js)  
+✨ Frontend Development (React.js)  
+✨ Docker & Cloud Architecture  
+✨ Design Patterns  
+✨ Football (Anytime!)
 
-- **Current Projects:**
-  - [Project Management App](https://github.com/pollabd/project-management-app.git) *(WIP)*
-  - [Event Management System](https://github.com/pollabd/event-management-system.git) 
-  - [Ecom Admin](https://github.com/pollabd/ecom-admin.git) 
+### Current Projects:
+- [Project Management App](https://github.com/pollabd/project-management-app.git) *(WIP)*
+- [Event Management System](https://github.com/pollabd/event-management-system.git) 
+- [Ecom Admin](https://github.com/pollabd/ecom-admin.git) 
 
-- **Currently Learning:**
-  ✨ Jenkins  
-  ✨ PostgreSQL
+### Currently Learning:
+✨ Jenkins  
+✨ PostgreSQL
 
 ---
 
@@ -69,15 +68,13 @@
 
 ---
 
+<!--  
+
 ### 🔧 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=pollabd&theme=catppuccin_mocha&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=pollabd&theme=catppuccin_mocha&hide_border=false" alt="GitHub Streak" />
+  -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pollabd&theme=catppuccin_mocha&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
 </p>
 
----
-
-<p align="center">
-  <em>Proudly crafted with <a href="https://gprm.itsvg.in">GPRM</a> 🌟</em>
-</p>
