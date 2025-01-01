@@ -16,11 +16,11 @@
 ---
 
 ### 🔍 Ask Me About:
-✨ Backend Development (Node.js)  
-✨ Frontend Development (React.js)  
-✨ Docker & Cloud Architecture  
-✨ Design Patterns  
-✨ Football (Anytime!)
+- Backend Development (Node.js)  
+- Frontend Development (React.js)  
+- Docker & Cloud Architecture  
+- Design Patterns  
+- Football (Anytime!)
 
 ### Current Projects:
 - [Project Management App](https://github.com/pollabd/project-management-app.git) *(WIP)*
@@ -28,8 +28,8 @@
 - [Ecom Admin](https://github.com/pollabd/ecom-admin.git) 
 
 ### Currently Learning:
-✨ Jenkins  
-✨ PostgreSQL
+- Jenkins  
+- PostgreSQL
 
 ---
 
