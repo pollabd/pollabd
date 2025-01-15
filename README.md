@@ -37,7 +37,7 @@
 - Solving problems on **Codeforces** & **LeetCode**
 - Watching **anime** & **TV shows**
 - Playing **video games**
-- And exploring "etc..." 
+- And exploring new techs 
 
 ---
 
