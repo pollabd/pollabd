@@ -1,8 +1,5 @@
 <h1 align="center">Hi there, I'm Pollab! 👋</h1>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=pollabd&label=Profile%20Views&color=0e75b6&style=flat" alt="pollabd" />
-</p>
 
 ---
 
