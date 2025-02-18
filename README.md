@@ -1,5 +1,4 @@
 <h1 align="center">Hi there, I'm Pollab! 👋</h1>
-<h3 align="center">A passionate Software Engineer from Bangladesh 🇧🇩</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=pollabd&label=Profile%20Views&color=0e75b6&style=flat" alt="pollabd" />
@@ -20,7 +19,6 @@
 - Frontend Development (React.js)  
 - Docker & Cloud Architecture  
 - Design Patterns  
-- Football (Anytime!)
 
 ## 💻 Current Projects:
 - [Appointment Booking System](https://github.com/pollabd/apointo.git) *(WIP)*
