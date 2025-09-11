@@ -23,13 +23,13 @@
 
 ## 📚 Currently Learning:
 - Jenkins  
-- PostgreSQL
+- Go
 
 ---
 
 ## 🎮 Hobbies
 - Solving problems on **Codeforces** & **LeetCode**
-- Watching **anime** & **TV shows**
+- Watching **anime**
 - Playing **video games**
 - And exploring new techs 
 
