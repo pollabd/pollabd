@@ -20,7 +20,7 @@ I'm a passionate full stack developer with expertise in building scalable web ap
 ## 🛠️ Technical Expertise
 
 **Languages**  
-JavaScript/TypeScript, Python, Java, C#
+JavaScript/TypeScript, Python, Java, C#, Go
 
 **Frontend**  
 React.js, Next.js, Angular
